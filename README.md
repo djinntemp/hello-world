@@ -3,8 +3,7 @@
   - Type some Markdown on the left
   - See HTML in the right
   - Magic
-  - 
- - fkjd lfjd
+    - fkjd lfjd
 
 Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  As [John Gruber] writes on the [Markdown site] [1]:
 
