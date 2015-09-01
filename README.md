@@ -69,6 +69,14 @@ Readmes, how to use them in your own application can be found here:
 * [plugins/googledrive/README.md](https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md)
 * [plugins/onedrive/README.md](https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md)
 
+
+> **Notes:**
+
+> - StackEdit is accessible offline after the application has been loaded for the first time.
+> - Your local documents are not shared between different browsers or computers.
+> - Clearing your browser's data may **delete all your local documents!** Make sure your documents are synchronized with **Google Drive** or **Dropbox** (check out the [<i class="icon-refresh"></i> Synchronization](#synchronization) section).
+
+
 ### Development
 
 Want to contribute? Great!
@@ -99,6 +107,13 @@ $ karma start
  - Rethink Github Save
  - Add Code Comments
  - Add Night Mode
+
+
+## Synchronization
+-------------------
+
+StackEdit can be combined with <i class="icon-provider-gdrive"></i> **Google Drive** and <i class="icon-provider-dropbox"></i> **Dropbox** to have your documents saved in the *Cloud*. The synchronization mechanism takes care of uploading your modifications or downloading the latest version of your documents.
+
 
 License
 ----
