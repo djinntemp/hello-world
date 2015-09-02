@@ -132,6 +132,38 @@ $ karma start
 StackEdit can be combined with <i class="icon-provider-gdrive"></i> **Google Drive** and <i class="icon-provider-dropbox"></i> **Dropbox** to have your documents saved in the *Cloud*. The synchronization mechanism takes care of uploading your modifications or downloading the latest version of your documents.
 
 
+UML Diagrams
+------------
+
+
+
+You can also render sequence diagrams like this:
+
+```sequence
+Alice->Bob: Hello Bob, how are you?
+Note right of Bob: Bob thinks
+Bob-->Alice: I am good thanks!
+```
+
+And flow charts like this:
+
+```flow
+st=>start: Start
+e=>end
+op=>operation: My Operation
+cond=>condition: Yes or No?
+
+st->op->cond
+cond(yes)->e
+cond(no)->op
+```
+
+> **Note:** You can find more information:
+
+> - about **Sequence diagrams** syntax [here][7],
+> - about **Flow charts** syntax [here][8].
+
+
 License
 ----
 
@@ -139,6 +171,7 @@ MIT
 
 
 **Free Software, Hell Yeah!**
+**Is it?**[^footnote]: First footnote ever
 
 - [john gruber](http://daringfireball.net)
 - [@thomasfuchs](http://twitter.com/thomasfuchs)
