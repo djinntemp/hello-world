@@ -48,6 +48,11 @@ Dillinger uses a number of open source projects to work properly:
 
 And of course Dillinger itself is open source with a [public repository](https://github.com/joemccann/dillinger) on GitHub.
 
+### Checklist
+
+- [ ] Check 1
+- [x] Check 2
+
 ### Installation
 
 You need Gulp installed globally:
