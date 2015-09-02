@@ -31,7 +31,10 @@ This text you see here is *actually* written in Markdown! To get a feel for Mark
   - test4
 - second
   - test1
+    - test 1.1
   - test2
+    - test 2.1
+    - test 2.2
 
 ### Version
 3.0.2
